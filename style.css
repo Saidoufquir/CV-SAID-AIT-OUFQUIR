@@ -650,6 +650,7 @@ button:focus:not(:focus-visible) {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 36px;
 }
 .fa-arrow-right:before {
   content: "\f061";
